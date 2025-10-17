@@ -4,7 +4,7 @@ keywords: 链接
 description: 夜初尧的小伙伴们
 links:
   - url: #
-    avatar: https://094918.xyz/pages/link_img/link_demo.jpg
+    avatar: https://#.jpg
     name: demo
     blog: demo
     desc: demo

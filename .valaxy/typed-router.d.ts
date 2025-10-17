@@ -30,7 +30,8 @@ declare module 'vue-router/auto-routes' {
     '/links/': RouteRecordInfo<'/links/', '/links', Record<never, never>, Record<never, never>>,
     '/page/[page]': RouteRecordInfo<'/page/[page]', '/page/:page', { page: ParamValue<true> }, { page: ParamValue<false> }>,
     '/posts/': RouteRecordInfo<'/posts/', '/posts', Record<never, never>, Record<never, never>>,
-    '/posts/1.TheOpeningChapterofMyWritings': RouteRecordInfo<'/posts/1.TheOpeningChapterofMyWritings', '/posts/1/TheOpeningChapterofMyWritings', Record<never, never>, Record<never, never>>,
+    '/posts/1.第一篇文章': RouteRecordInfo<'/posts/1.第一篇文章', '/posts/1/第一篇文章', Record<never, never>, Record<never, never>>,
+    '/posts/2.心理学_1': RouteRecordInfo<'/posts/2.心理学_1', '/posts/2/心理学_1', Record<never, never>, Record<never, never>>,
     '/tags/': RouteRecordInfo<'/tags/', '/tags', Record<never, never>, Record<never, never>>,
   }
 
@@ -93,8 +94,12 @@ declare module 'vue-router/auto-routes' {
       routes: '/posts/'
       views: never
     }
-    'pages/posts/1.TheOpeningChapterofMyWritings.md': {
-      routes: '/posts/1.TheOpeningChapterofMyWritings'
+    'pages/posts/1.第一篇文章.md': {
+      routes: '/posts/1.第一篇文章'
+      views: never
+    }
+    'pages/posts/2.心理学_1.md': {
+      routes: '/posts/2.心理学_1'
       views: never
     }
     'pages/tags/index.md': {
