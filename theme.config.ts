@@ -1,0 +1,74 @@
+import { defineThemeConfig } from 'valaxy-theme-yun'
+
+export default defineThemeConfig({
+  // type: 'strato',
+  type: 'nimbo',
+  // colors: {
+  //   primary: 'red',
+  // },
+  // bg_image: {},
+
+  banner: {
+    enable: true,
+    title: '夜尧阁',
+    siteNameClass: 'bg-gradient-to-r gradient-text from-#1e3c72 to-dark dark:from-#66a6ff dark:to-blue-500',
+  },
+
+  notice: {
+    enable: false,
+    content: '公告测试',
+  },
+
+  nav: [
+    { text: 'menu.posts', link: '/posts/', icon: 'i-ri-article-line' },
+    { text: '友情链接', link: '/links/', icon: 'i-ri-link' },
+    // { text: '项目列表', link: '/projects', icon: 'i-ri-gallery-view' },
+    { text: '相册', link: '/albums', icon: 'i-ri-image-line' },
+    { text: '朕的后宫', link: 'https://www.moely.link/', icon: 'i-ri-women-line' },
+    // { text: '赞助者们', link: '/sponsors/', icon: 'i-ri-heart-line' },
+  ],
+
+  pages: [
+    // {
+    //   name: '项目列表',
+    //   url: '/projects',
+    //   icon: 'i-ri-gallery-view',
+    //   color: 'var(--va-c-text)',
+    // },
+    {
+      name: '相册',
+      url: '/albums',
+      icon: 'i-ri-image-line',
+      color: 'var(--va-c-text)',
+    },
+    {
+      name: '友情链接',
+      url: '/links/',
+      icon: 'i-ri-link',
+      color: 'dodgerblue',
+    },
+    {
+      name: '朕的后宫',
+      url: 'https://www.moely.link/',
+      icon: 'i-ri-women-line',
+      color: 'hotpink',
+    },
+    // {
+    //   name: '赞助者们',
+    //   url: '/sponsors/',
+    //   icon: 'i-ri-heart-line',
+    //   color: 'red',
+    // },
+  ],
+
+  footer: {
+    since: 2025,
+    beian: {
+      enable: false,
+      icp: '苏ICP备17038157号',
+    },
+    icon: {
+      animated: true,
+    },
+  },
+})

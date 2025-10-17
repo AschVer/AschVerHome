@@ -5,10 +5,15 @@ export default defineSiteConfig({
   lang: 'zh-CN',
   title: '夜尧阁 AI分享站',
   author: {
+    avatar: 'https://i.meee.com.tw/6hDcCbD.png',
     name: '夜初尧',
   },
-  description: '无欲无求 笑口常开',
+  // 二级标题
   subtitle: '人生得意须尽欢 莫使金樽空对月',
+  // 三级标题
+  description: '无欲无求 笑口常开',
+
+  // 连接列表
   social: [
     {
       name: 'RSS',
@@ -84,7 +89,7 @@ export default defineSiteConfig({
     },
     {
       name: 'Travelling',
-      link: '#',
+      link: 'https://www.travellings.cn/go.html',
       icon: 'i-ri-train-line',
       color: 'var(--va-c-text)',
     },
