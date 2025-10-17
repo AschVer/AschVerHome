@@ -28,6 +28,7 @@ declare module 'vue-router/auto-routes' {
     '/links/': RouteRecordInfo<'/links/', '/links', Record<never, never>, Record<never, never>>,
     '/page/[page]': RouteRecordInfo<'/page/[page]', '/page/:page', { page: ParamValue<true> }, { page: ParamValue<false> }>,
     '/posts/': RouteRecordInfo<'/posts/', '/posts', Record<never, never>, Record<never, never>>,
+    '/posts/1.TheOpeningChapterofMyWritings': RouteRecordInfo<'/posts/1.TheOpeningChapterofMyWritings', '/posts/1/TheOpeningChapterofMyWritings', Record<never, never>, Record<never, never>>,
     '/posts/hello-valaxy': RouteRecordInfo<'/posts/hello-valaxy', '/posts/hello-valaxy', Record<never, never>, Record<never, never>>,
     '/tags/': RouteRecordInfo<'/tags/', '/tags', Record<never, never>, Record<never, never>>,
   }
@@ -81,6 +82,10 @@ declare module 'vue-router/auto-routes' {
     }
     'node_modules/.pnpm/valaxy-theme-yun@0.26.6_vue@3.5.22_typescript@5.9.3_/node_modules/valaxy-theme-yun/pages/posts/index.vue': {
       routes: '/posts/'
+      views: never
+    }
+    'pages/posts/1.TheOpeningChapterofMyWritings.md': {
+      routes: '/posts/1.TheOpeningChapterofMyWritings'
       views: never
     }
     'pages/posts/hello-valaxy.md': {
