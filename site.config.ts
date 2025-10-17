@@ -8,7 +8,7 @@ export default defineSiteConfig({
     name: '夜初尧',
   },
   description: '无欲无求 笑口常开',
-  subtitle: 'All at sea.',
+  subtitle: '人生得意须尽欢 莫使金樽空对月',
   social: [
     {
       name: 'RSS',
