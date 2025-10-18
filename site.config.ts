@@ -5,7 +5,7 @@ export default defineSiteConfig({
   lang: 'zh-CN',
   title: '夜尧阁 AI分享站',
   author: {
-    avatar: 'https://i.meee.com.tw/6hDcCbD.png',
+    avatar: 'https://youke1.picui.cn/s1/2025/10/18/68f38a5c64e7f.png',
     name: '夜初尧',
   },
   // 二级标题
