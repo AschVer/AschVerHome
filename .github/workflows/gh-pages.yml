@@ -20,12 +20,10 @@ jobs:
       fail-fast: false
 
     steps:
-      - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
+      - uses: actions/checkout@v2
 
       - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v2
         with:
           node-version: ${{ matrix.node-version }}
           registry-url: https://registry.npmjs.org/
@@ -33,7 +31,7 @@ jobs:
           cache: 'npm'
 
       - name: 📦 Install Dependencies
-        run: npm ci
+        run: npm i
 
       # 缓存构建结果，实现增量构建
       - name: Cache Build Results
