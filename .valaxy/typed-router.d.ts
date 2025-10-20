@@ -23,9 +23,6 @@ declare module 'vue-router/auto-routes' {
     '/404': RouteRecordInfo<'/404', '/404', Record<never, never>, Record<never, never>>,
     '/about/': RouteRecordInfo<'/about/', '/about', Record<never, never>, Record<never, never>>,
     '/about/site': RouteRecordInfo<'/about/site', '/about/site', Record<never, never>, Record<never, never>>,
-    '/albums/': RouteRecordInfo<'/albums/', '/albums', Record<never, never>, Record<never, never>>,
-    '/albums/demo': RouteRecordInfo<'/albums/demo', '/albums/demo', Record<never, never>, Record<never, never>>,
-    '/archives/': RouteRecordInfo<'/archives/', '/archives', Record<never, never>, Record<never, never>>,
     '/categories/': RouteRecordInfo<'/categories/', '/categories', Record<never, never>, Record<never, never>>,
     '/links/': RouteRecordInfo<'/links/', '/links', Record<never, never>, Record<never, never>>,
     '/page/[page]': RouteRecordInfo<'/page/[page]', '/page/:page', { page: ParamValue<true> }, { page: ParamValue<false> }>,
@@ -65,18 +62,6 @@ declare module 'vue-router/auto-routes' {
     }
     'pages/about/site.md': {
       routes: '/about/site'
-      views: never
-    }
-    'pages/albums/index.md': {
-      routes: '/albums/'
-      views: never
-    }
-    'pages/albums/demo.md': {
-      routes: '/albums/demo'
-      views: never
-    }
-    'pages/archives/index.md': {
-      routes: '/archives/'
       views: never
     }
     'pages/categories/index.md': {

@@ -13,6 +13,5 @@ title: 关于我
 I am a senior high school student from Beijing Information Management School.
 
 I like AI and I am not shy about sharing my experience and knowledge in the field of AI (although what I share may not be in-depth, correct, or real-time).
-Check out the [Valaxy | GitHub](https://github.com/YunYouJun/valaxy) for more details.
 
 If these help you or inspire you, I will be very happy. At least it proves that my efforts are effective.

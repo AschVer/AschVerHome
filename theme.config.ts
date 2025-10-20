@@ -23,7 +23,7 @@ export default defineThemeConfig({
     { text: 'menu.posts', link: '/posts/', icon: 'i-ri-article-line' },
     { text: '友情链接', link: '/links/', icon: 'i-ri-link' },
     // { text: '项目列表', link: '/projects', icon: 'i-ri-gallery-view' },
-    { text: '相册', link: '/albums', icon: 'i-ri-image-line' },
+    // { text: '相册', link: '/albums', icon: 'i-ri-image-line' },
     { text: '朕的后宫', link: 'https://www.moely.link/', icon: 'i-ri-women-line' },
     // { text: '赞助者们', link: '/sponsors/', icon: 'i-ri-heart-line' },
   ],
@@ -35,12 +35,12 @@ export default defineThemeConfig({
     //   icon: 'i-ri-gallery-view',
     //   color: 'var(--va-c-text)',
     // },
-    {
-      name: '相册',
-      url: '/albums',
-      icon: 'i-ri-image-line',
-      color: 'var(--va-c-text)',
-    },
+  //  {
+  //     name: '相册',
+  //     url: '/albums',
+  //     icon: 'i-ri-image-line',
+  //     color: 'var(--va-c-text)',
+  //   }, 
     {
       name: '友情链接',
       url: '/links/',
