@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://valaxy.site/</id>
+    <title>夜尧阁 AI分享站</title>
+    <updated>2025-10-20T09:55:03.384Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>夜初尧</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://valaxy.site/"/>
+    <link rel="self" href="https://valaxy.site/atom.xml"/>
+    <subtitle>无欲无求 笑口常开</subtitle>
+    <logo>https://youke1.picui.cn/s1/2025/10/18/68f38a5c64e7f.png</logo>
+    <icon>https://valaxy.site/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2025 © 夜初尧</rights>
+    <entry>
+        <title type="html"><![CDATA[你为什么要学乐理]]></title>
+        <id>https://valaxy.site/posts/4.乐理_1</id>
+        <link href="https://valaxy.site/posts/4.乐理_1"/>
+        <updated>2025-10-20T17:27:00.000Z</updated>
+        <content type="html"><![CDATA[<p>这片文章先不讲解乐理知识 我们先来思考一下我么到底为什么要学习乐理</p>
+<h2>学习乐理前的思考</h2>
+<p>什么要学乐理？我觉得很多人都没有仔细想过这个事情，可能有少部分人想过。但是如果你是非科班出身，其实你能接</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/4.乐理_1" target="_blank">https://valaxy.site/posts/4.乐理_1</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>夜初尧</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-20T17:27:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拒绝自证的艺术：从被动到主动的思维转变]]></title>
+        <id>https://valaxy.site/posts/2.心理学_1</id>
+        <link href="https://valaxy.site/posts/2.心理学_1"/>
+        <updated>2025-10-16T10:20:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>自证的本质与陷阱</h2>
+<h3>自证的底层逻辑</h3>
+<ul>
+<li>是一种框架控制的游戏，一场不对等审判</li>
+<li>对方充当审查官，你被迫成为犯人</li>
+<li>一旦开始自证，就等于接受对方设定，掉进自证陷阱</li>
+</ul>
+<h3>自证的后</h3>
+<br/><p>访问 <a href="https://valaxy.site/posts/2.心理学_1" target="_blank">https://valaxy.site/posts/2.心理学_1</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>夜初尧</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-16T10:20:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI的基础知识]]></title>
+        <id>https://valaxy.site/posts/3.AI_1</id>
+        <link href="https://valaxy.site/posts/3.AI_1"/>
+        <updated>2025-10-16T10:20:00.000Z</updated>
+        <content type="html"><![CDATA[<h3>什么是人工智能（AI）？</h3>
+<p>人工智能（AI）是一项变革性技术，它使机器能够和人类一样解决问题。从识别图像和生成创意内容到做出数据驱动的预测，人工智能使企业能够大规模做出更明智的决策。</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/3.AI_1" target="_blank">https://valaxy.site/posts/3.AI_1</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>夜初尧</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-16T10:20:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Opening Chapter of My Writings]]></title>
+        <id>https://valaxy.site/posts/1.第一篇文章</id>
+        <link href="https://valaxy.site/posts/1.第一篇文章"/>
+        <updated>2025-10-15T10:20:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>我的第一篇博客文章</h2>
+<p>大家好，欢迎来到我的博客！<br>
+拥有自己的第一段文字 手指敲动键盘的感觉 就像打开了一个新的世界</p>
+<p>写这个博客的初衷很简单：我想把自己在日常生活中学习的AI知识和一些A</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/1.第一篇文章" target="_blank">https://valaxy.site/posts/1.第一篇文章</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>夜初尧</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-15T10:20:00.000Z</published>
+    </entry>
+</feed>
