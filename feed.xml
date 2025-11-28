@@ -4,7 +4,7 @@
         <title>夜尧阁 AI分享站</title>
         <link>https://valaxy.site/</link>
         <description>无欲无求 笑口常开</description>
-        <lastBuildDate>Fri, 31 Oct 2025 03:05:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Nov 2025 09:37:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -14,6 +14,17 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2025 © 夜初尧</copyright>
         <atom:link href="https://valaxy.site/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[人工智能素养：内涵剖析与评估标准构建]]></title>
+            <link>https://valaxy.site/posts/6.AI_3</link>
+            <guid isPermaLink="false">https://valaxy.site/posts/6.AI_3</guid>
+            <pubDate>Fri, 28 Nov 2025 17:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>人工智能素养：内涵剖析与评估标准构建</h1>
+<h2>摘要</h2>
+<p>人工智能广泛渗透到社会各个层面，对人们的素养和能力提出了更高的要求。在ChatGPT等生成式人工智能逐渐走向常态化应用的背景下，需要研究AI素</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/6.AI_3" target="_blank">https://valaxy.site/posts/6.AI_3</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (夜初尧)</author>
+        </item>
         <item>
             <title><![CDATA[你为什么要学乐理]]></title>
             <link>https://valaxy.site/posts/4.乐理_1</link>
