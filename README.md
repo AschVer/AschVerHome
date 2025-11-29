@@ -1,28 +1,28 @@
 # create-valaxy
 
-Example: [valaxy.site](https://valaxy.site)
+示例: [valaxy.site](https://valaxy.site)
 
-## Usage
+## 使用方法
 
 ```bash
-# install
+# 安装
 npm i
-# or pnpm i
+# 或 pnpm i
 
-# start
+# 启动
 npm run dev
-# or pnpm dev
+# 或 pnpm dev
 ```
 
-See `http://localhost:4859/`, have fun!
+访问 `http://localhost:4859/`，开始使用吧！
 
-### Config
+### 配置
 
-Modify `valaxy.config.ts` to custom your blog.
+修改 `valaxy.config.ts` 来自定义你的博客。
 
-English & Chinese Docs is coming!
+中英文文档即将到来！
 
-> Wait a minute.
+> 请稍等片刻。
 
 ### Docker
 
@@ -30,22 +30,22 @@ English & Chinese Docs is coming!
 docker build . -t your-valaxy-blog-name:latest
 ```
 
-## Structure
+## 项目结构
 
-In most cases, you only need to work in the `pages` folder.
+在大多数情况下，你只需要在 `pages` 文件夹中工作。
 
-### Main folders
+### 主要文件夹
 
-- `pages`: your all pages
-  - `posts`: write your posts here, will be counted as posts
-- `styles`: override theme styles, `index.scss`/`vars.csss`/`index.css` will be loaded automatically
-- `components`: custom your vue components (will be loaded automatically)
-- `layouts`: custom layouts (use it by `layout: xxx` in md)
-- `locales`: custom i18n
+- `pages`: 你的所有页面
+  - `posts`: 在这里编写你的文章，会被统计为文章
+- `styles`: 覆盖主题样式，`index.scss`/`vars.csss`/`index.css` 会自动加载
+- `components`: 自定义你的 Vue 组件（会自动加载）
+- `layouts`: 自定义布局（在 md 文件中使用 `layout: xxx`）
+- `locales`: 自定义国际化
 
-### Other
+### 其他
 
-- `.vscode`: recommend some useful plugins & settings, you can preview icon/i18n/class...
-- `.github`: GitHub Actions to auto build & deploy to GitHub Pages
-- `netlify.toml`: for [netlify](https://www.netlify.com/)
-- `vercel.json`: for [vercel](https://vercel.com/)
+- `.vscode`: 推荐一些有用的插件和设置，你可以预览图标/国际化/类...
+- `.github`: GitHub Actions 用于自动构建并部署到 GitHub Pages
+- `netlify.toml`: 用于 [netlify](https://www.netlify.com/)
+- `vercel.json`: 用于 [vercel](https://vercel.com/)
