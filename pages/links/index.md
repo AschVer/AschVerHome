@@ -4,10 +4,10 @@ keywords: 链接
 description: 夜初尧的小伙伴们
 links:
   - url: #
-    avatar: https://#.jpg
-    name: demo
-    blog: demo
-    desc: demo
+    avatar: https://photo.icysn.com/file/Obsidian.jpg
+    name: 𝑶𝒃𝒔𝒊𝒅𝒊𝒂𝒏
+    blog: 大道至简 算理无边
+    desc: https://blog.hiyun.top/
     email: demo
     color: "#0078e7"
   # - url: https://valaxy.site
