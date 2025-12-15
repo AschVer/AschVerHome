@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://valaxy.site/</id>
     <title>夜尧阁 AI分享站</title>
-    <updated>2025-11-29T02:47:31.149Z</updated>
+    <updated>2025-12-15T07:21:39.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>夜初尧</name>
@@ -17,13 +17,13 @@
     <rights>CC BY-NC-SA 4.0 2025 © 夜初尧</rights>
     <entry>
         <title type="html"><![CDATA[人工智能素养：内涵剖析与评估标准构建]]></title>
-        <id>https://valaxy.site/posts/6.AI_3</id>
-        <link href="https://valaxy.site/posts/6.AI_3"/>
+        <id>https://valaxy.site/posts/5.AI_3</id>
+        <link href="https://valaxy.site/posts/5.AI_3"/>
         <updated>2025-11-28T17:27:00.000Z</updated>
         <content type="html"><![CDATA[<h1>人工智能素养：内涵剖析与评估标准构建</h1>
 <h2>摘要</h2>
 <p>人工智能广泛渗透到社会各个层面，对人们的素养和能力提出了更高的要求。在ChatGPT等生成式人工智能逐渐走向常态化应用的背景下，需要研究AI素</p>
-<br/><p>访问 <a href="https://valaxy.site/posts/6.AI_3" target="_blank">https://valaxy.site/posts/6.AI_3</a> 阅读全文。</p>]]></content>
+<br/><p>访问 <a href="https://valaxy.site/posts/5.AI_3" target="_blank">https://valaxy.site/posts/5.AI_3</a> 阅读全文。</p>]]></content>
         <author>
             <name>夜初尧</name>
             <email>i@valaxy.site</email>
@@ -32,30 +32,14 @@
         <published>2025-11-28T17:27:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[你为什么要学乐理]]></title>
-        <id>https://valaxy.site/posts/4.乐理_1</id>
-        <link href="https://valaxy.site/posts/4.乐理_1"/>
-        <updated>2025-10-20T17:27:00.000Z</updated>
-        <content type="html"><![CDATA[<p>这篇文章先不讲解乐理知识，我们先来思考一下我们到底为什么要学习乐理。</p>
-<h2>学习乐理前的思考</h2>
-<p>为什么要学乐理？我觉得很多人都没有仔细想过这个问题，可能有少部分人想过。但是如果你是非科班出身，其实你</p>
-<br/><p>访问 <a href="https://valaxy.site/posts/4.乐理_1" target="_blank">https://valaxy.site/posts/4.乐理_1</a> 阅读全文。</p>]]></content>
-        <author>
-            <name>夜初尧</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2025-10-20T17:27:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI幻觉的多维解析：成因、现象及影响的全面阐释]]></title>
-        <id>https://valaxy.site/posts/5.AI_2</id>
-        <link href="https://valaxy.site/posts/5.AI_2"/>
+        <id>https://valaxy.site/posts/4.AI_2</id>
+        <link href="https://valaxy.site/posts/4.AI_2"/>
         <updated>2025-10-20T17:27:00.000Z</updated>
         <content type="html"><![CDATA[<h1>AI幻觉的多维解析：成因、现象及影响的全面阐释</h1>
 <p>作者: 王 蕊：河北师范大学新闻传播学院，河北 石家庄<br>
 摘要: 本文围绕AI幻觉展开多维解析，先界定其内涵为AI系统生成的不准确、虚构内容，本质是算</p>
-<br/><p>访问 <a href="https://valaxy.site/posts/5.AI_2" target="_blank">https://valaxy.site/posts/5.AI_2</a> 阅读全文。</p>]]></content>
+<br/><p>访问 <a href="https://valaxy.site/posts/4.AI_2" target="_blank">https://valaxy.site/posts/4.AI_2</a> 阅读全文。</p>]]></content>
         <author>
             <name>夜初尧</name>
             <email>i@valaxy.site</email>
