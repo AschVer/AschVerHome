@@ -30,7 +30,8 @@ declare module 'vue-router/auto-routes' {
     '/posts/1.第一篇文章': RouteRecordInfo<'/posts/1.第一篇文章', '/posts/1/第一篇文章', Record<never, never>, Record<never, never>>,
     '/posts/2.心理学_1': RouteRecordInfo<'/posts/2.心理学_1', '/posts/2/心理学_1', Record<never, never>, Record<never, never>>,
     '/posts/3.AI_1': RouteRecordInfo<'/posts/3.AI_1', '/posts/3/AI_1', Record<never, never>, Record<never, never>>,
-    '/posts/4.乐理_1': RouteRecordInfo<'/posts/4.乐理_1', '/posts/4/乐理_1', Record<never, never>, Record<never, never>>,
+    '/posts/4.AI_2': RouteRecordInfo<'/posts/4.AI_2', '/posts/4/AI_2', Record<never, never>, Record<never, never>>,
+    '/posts/5.AI_3': RouteRecordInfo<'/posts/5.AI_3', '/posts/5/AI_3', Record<never, never>, Record<never, never>>,
     '/tags/': RouteRecordInfo<'/tags/', '/tags', Record<never, never>, Record<never, never>>,
   }
 
@@ -93,8 +94,12 @@ declare module 'vue-router/auto-routes' {
       routes: '/posts/3.AI_1'
       views: never
     }
-    'pages/posts/4.乐理_1.md': {
-      routes: '/posts/4.乐理_1'
+    'pages/posts/4.AI_2.md': {
+      routes: '/posts/4.AI_2'
+      views: never
+    }
+    'pages/posts/5.AI_3.md': {
+      routes: '/posts/5.AI_3'
       views: never
     }
     'pages/tags/index.md': {
