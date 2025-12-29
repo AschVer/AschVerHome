@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://valaxy.site/</id>
     <title>夜尧阁 AI分享站</title>
-    <updated>2025-12-29T06:17:55.878Z</updated>
+    <updated>2025-12-29T06:49:31.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>夜初尧</name>
@@ -16,14 +16,31 @@
     <icon>https://valaxy.site/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2025 © 夜初尧</rights>
     <entry>
-        <title type="html"><![CDATA[AI分类监管：从治理框架到监管草案，中国正在做什么？]]></title>
-        <id>https://valaxy.site/posts/6.AI_4</id>
-        <link href="https://valaxy.site/posts/6.AI_4"/>
-        <updated>2025-11-28T17:27:00.000Z</updated>
-        <content type="html"><![CDATA[<h1>AI 分类监管：从治理框架到监管草案，中国正在做什么？</h1>
-<h2>引言：AI 进入精细化治理时代</h2>
-<p>随着人工智能技术在社会各行业的深度渗透，关于如何有效管理 AI 风险的讨论已经从“是否监管”转向“</p>
-<br/><p>访问 <a href="https://valaxy.site/posts/6.AI_4" target="_blank">https://valaxy.site/posts/6.AI_4</a> 阅读全文。</p>]]></content>
+        <title type="html"><![CDATA[AI的基础知识]]></title>
+        <id>https://valaxy.site/posts/3.AI_1</id>
+        <link href="https://valaxy.site/posts/3.AI_1"/>
+        <updated>2025-10-16T10:20:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>什么是人工智能（AI）？</h2>
+<p>人工智能（AI）是一项变革性技术，它使机器能够和人类一样解决问题。从识别图像和生成创意内容到做出数据驱动的预测，人工智能使企业能够大规模做出更明智的决策。</p>
+<p>在当今的数</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/3.AI_1" target="_blank">https://valaxy.site/posts/3.AI_1</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>夜初尧</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-12-29T17:27:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迈向第三代人工智能]]></title>
+        <id>https://valaxy.site/posts/7.AI_5</id>
+        <link href="https://valaxy.site/posts/7.AI_5"/>
+        <updated>2025-12-27T17:27:00.000Z</updated>
+        <content type="html"><![CDATA[<h1>第一代人工智能</h1>
+<h2>1.1 物理符号系统假设</h2>
+<p>人类的智能行为是怎么产生的, 纽威尔、西蒙等提出以下模拟人类大脑的符号模型, 即物理符号系统假设. 这种系统包括:<br>
+(1) 一组任意的符号集,</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/7.AI_5" target="_blank">https://valaxy.site/posts/7.AI_5</a> 阅读全文。</p>]]></content>
         <author>
             <name>夜初尧</name>
             <email>i@valaxy.site</email>
@@ -35,7 +52,7 @@
         <title type="html"><![CDATA[人工智能素养：内涵剖析与评估标准构建]]></title>
         <id>https://valaxy.site/posts/5.AI_3</id>
         <link href="https://valaxy.site/posts/5.AI_3"/>
-        <updated>2025-11-28T17:27:00.000Z</updated>
+        <updated>2025-11-07T17:27:00.000Z</updated>
         <content type="html"><![CDATA[<h1>人工智能素养：内涵剖析与评估标准构建</h1>
 <h2>摘要</h2>
 <p>人工智能广泛渗透到社会各个层面，对人们的素养和能力提出了更高的要求。在ChatGPT等生成式人工智能逐渐走向常态化应用的背景下，需要研究AI素</p>
@@ -46,6 +63,22 @@
             <uri>https://valaxy.site</uri>
         </author>
         <published>2025-11-28T17:27:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI分类监管：从治理框架到监管草案，中国正在做什么？]]></title>
+        <id>https://valaxy.site/posts/6.AI_4</id>
+        <link href="https://valaxy.site/posts/6.AI_4"/>
+        <updated>2025-11-11T17:27:00.000Z</updated>
+        <content type="html"><![CDATA[<h1>AI 分类监管：从治理框架到监管草案，中国正在做什么？</h1>
+<h2>引言：AI 进入精细化治理时代</h2>
+<p>随着人工智能技术在社会各行业的深度渗透，关于如何有效管理 AI 风险的讨论已经从“是否监管”转向“</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/6.AI_4" target="_blank">https://valaxy.site/posts/6.AI_4</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>夜初尧</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-11-20T17:27:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI幻觉的多维解析：成因、现象及影响的全面阐释]]></title>
@@ -77,21 +110,6 @@
 </ul>
 <h3>自证的后</h3>
 <br/><p>访问 <a href="https://valaxy.site/posts/2.心理学_1" target="_blank">https://valaxy.site/posts/2.心理学_1</a> 阅读全文。</p>]]></content>
-        <author>
-            <name>夜初尧</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2025-10-16T10:20:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI的基础知识]]></title>
-        <id>https://valaxy.site/posts/3.AI_1</id>
-        <link href="https://valaxy.site/posts/3.AI_1"/>
-        <updated>2025-10-16T10:20:00.000Z</updated>
-        <content type="html"><![CDATA[<h3>什么是人工智能（AI）？</h3>
-<p>人工智能（AI）是一项变革性技术，它使机器能够和人类一样解决问题。从识别图像和生成创意内容到做出数据驱动的预测，人工智能使企业能够大规模做出更明智的决策。</p>
-<br/><p>访问 <a href="https://valaxy.site/posts/3.AI_1" target="_blank">https://valaxy.site/posts/3.AI_1</a> 阅读全文。</p>]]></content>
         <author>
             <name>夜初尧</name>
             <email>i@valaxy.site</email>
