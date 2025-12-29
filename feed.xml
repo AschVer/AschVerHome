@@ -4,7 +4,7 @@
         <title>夜尧阁 AI分享站</title>
         <link>https://valaxy.site/</link>
         <description>无欲无求 笑口常开</description>
-        <lastBuildDate>Mon, 15 Dec 2025 07:33:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Dec 2025 06:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -14,6 +14,17 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2025 © 夜初尧</copyright>
         <atom:link href="https://valaxy.site/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AI分类监管：从治理框架到监管草案，中国正在做什么？]]></title>
+            <link>https://valaxy.site/posts/6.AI_4</link>
+            <guid isPermaLink="false">https://valaxy.site/posts/6.AI_4</guid>
+            <pubDate>Mon, 29 Dec 2025 17:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>AI 分类监管：从治理框架到监管草案，中国正在做什么？</h1>
+<h2>引言：AI 进入精细化治理时代</h2>
+<p>随着人工智能技术在社会各行业的深度渗透，关于如何有效管理 AI 风险的讨论已经从“是否监管”转向“</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/6.AI_4" target="_blank">https://valaxy.site/posts/6.AI_4</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (夜初尧)</author>
+        </item>
         <item>
             <title><![CDATA[人工智能素养：内涵剖析与评估标准构建]]></title>
             <link>https://valaxy.site/posts/5.AI_3</link>
