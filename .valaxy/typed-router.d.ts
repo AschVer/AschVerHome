@@ -32,6 +32,9 @@ declare module 'vue-router/auto-routes' {
     '/posts/3.AI_1': RouteRecordInfo<'/posts/3.AI_1', '/posts/3/AI_1', Record<never, never>, Record<never, never>>,
     '/posts/4.AI_2': RouteRecordInfo<'/posts/4.AI_2', '/posts/4/AI_2', Record<never, never>, Record<never, never>>,
     '/posts/5.AI_3': RouteRecordInfo<'/posts/5.AI_3', '/posts/5/AI_3', Record<never, never>, Record<never, never>>,
+    '/posts/6.AI_4': RouteRecordInfo<'/posts/6.AI_4', '/posts/6/AI_4', Record<never, never>, Record<never, never>>,
+    '/posts/7.AI_5': RouteRecordInfo<'/posts/7.AI_5', '/posts/7/AI_5', Record<never, never>, Record<never, never>>,
+    '/posts/8.Bye2025': RouteRecordInfo<'/posts/8.Bye2025', '/posts/8/Bye2025', Record<never, never>, Record<never, never>>,
     '/tags/': RouteRecordInfo<'/tags/', '/tags', Record<never, never>, Record<never, never>>,
   }
 
@@ -100,6 +103,18 @@ declare module 'vue-router/auto-routes' {
     }
     'pages/posts/5.AI_3.md': {
       routes: '/posts/5.AI_3'
+      views: never
+    }
+    'pages/posts/6.AI_4.md': {
+      routes: '/posts/6.AI_4'
+      views: never
+    }
+    'pages/posts/7.AI_5.md': {
+      routes: '/posts/7.AI_5'
+      views: never
+    }
+    'pages/posts/8.Bye2025.md': {
+      routes: '/posts/8.Bye2025'
       views: never
     }
     'pages/tags/index.md': {
