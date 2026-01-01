@@ -41,4 +41,4 @@ jobs:
           publish_dir: ./dist
           force_orphan: false
           keep_files: false
-          cname: 094918.xyz
+          cname: hichuyao.top
