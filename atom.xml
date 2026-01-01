@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://valaxy.site/</id>
     <title>夜尧阁 AI分享站</title>
-    <updated>2026-01-01T10:46:17.334Z</updated>
+    <updated>2026-01-01T10:51:45.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>夜初尧</name>
@@ -29,7 +29,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2026-01-01T10:45:27.168Z</published>
+        <published>2026-01-01T10:50:54.175Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI的基础知识]]></title>
