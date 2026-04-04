@@ -16,7 +16,19 @@
             "url": "https://valaxy.site/posts/8.Bye2025",
             "title": "再见 2025 你好 2026",
             "date_modified": "2026-01-01T16:26:00.000Z",
-            "date_published": "2026-02-24T09:35:22.345Z",
+            "date_published": "2026-04-04T14:15:42.649Z",
+            "author": {
+                "name": "夜初尧",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://valaxy.site/posts/9.AI_Agent",
+            "content_html": "<h2>什么是 AI Agent？</h2>\n<p>如果你用过 ChatGPT，你一定体验过这样的流程：你提出一个问题，它给你一段回答，然后——对话结束了。</p>\n<p>但如果你告诉一个 AI Agent：&quot;帮我调研 202</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/9.AI_Agent\" target=\"_blank\">https://valaxy.site/posts/9.AI_Agent</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/9.AI_Agent",
+            "title": "AI Agent 的崛起：从\"对话助手\"到\"自主执行者\"",
+            "date_modified": "2026-04-04T10:20:00.000Z",
+            "date_published": "2026-04-04T10:20:00.000Z",
             "author": {
                 "name": "夜初尧",
                 "url": "https://valaxy.site"

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://valaxy.site/</id>
     <title>夜尧阁 AI分享站</title>
-    <updated>2026-02-24T09:36:09.033Z</updated>
+    <updated>2026-04-04T14:16:23.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>夜初尧</name>
@@ -29,7 +29,23 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2026-02-24T09:35:22.345Z</published>
+        <published>2026-04-04T14:15:42.649Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Agent 的崛起：从"对话助手"到"自主执行者"]]></title>
+        <id>https://valaxy.site/posts/9.AI_Agent</id>
+        <link href="https://valaxy.site/posts/9.AI_Agent"/>
+        <updated>2026-04-04T10:20:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>什么是 AI Agent？</h2>
+<p>如果你用过 ChatGPT，你一定体验过这样的流程：你提出一个问题，它给你一段回答，然后——对话结束了。</p>
+<p>但如果你告诉一个 AI Agent：&quot;帮我调研 202</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/9.AI_Agent" target="_blank">https://valaxy.site/posts/9.AI_Agent</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>夜初尧</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2026-04-04T10:20:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI的基础知识]]></title>
