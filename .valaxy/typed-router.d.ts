@@ -35,6 +35,7 @@ declare module 'vue-router/auto-routes' {
     '/posts/6.AI_4': RouteRecordInfo<'/posts/6.AI_4', '/posts/6/AI_4', Record<never, never>, Record<never, never>>,
     '/posts/7.AI_5': RouteRecordInfo<'/posts/7.AI_5', '/posts/7/AI_5', Record<never, never>, Record<never, never>>,
     '/posts/8.Bye2025': RouteRecordInfo<'/posts/8.Bye2025', '/posts/8/Bye2025', Record<never, never>, Record<never, never>>,
+    '/posts/9.AI_Agent': RouteRecordInfo<'/posts/9.AI_Agent', '/posts/9/AI_Agent', Record<never, never>, Record<never, never>>,
     '/tags/': RouteRecordInfo<'/tags/', '/tags', Record<never, never>, Record<never, never>>,
   }
 
@@ -115,6 +116,10 @@ declare module 'vue-router/auto-routes' {
     }
     'pages/posts/8.Bye2025.md': {
       routes: '/posts/8.Bye2025'
+      views: never
+    }
+    'pages/posts/9.AI_Agent.md': {
+      routes: '/posts/9.AI_Agent'
       views: never
     }
     'pages/tags/index.md': {
