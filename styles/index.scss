@@ -1,1 +1,11 @@
-// you can custom css here
+// 自定义样式
+
+/* 文章列表页封面图片 - 统一尺寸，从左上角裁剪 */
+.post-card-image img.cover {
+  object-position: left top !important;
+}
+
+/* 文章详情页封面图片 - 统一尺寸，从左上角裁剪 */
+.yun-card > img.object-cover {
+  object-position: left top !important;
+}
