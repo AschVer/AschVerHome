@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://valaxy.site/</id>
     <title>夜尧阁 AI分享站</title>
-    <updated>2026-04-05T12:16:38.178Z</updated>
+    <updated>2026-04-05T12:27:30.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>夜初尧</name>
@@ -29,7 +29,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2026-04-05T12:16:15.961Z</published>
+        <published>2026-04-05T12:27:08.889Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-5 全面解析：大模型正式迈入"思考时代"]]></title>
@@ -39,6 +39,22 @@
         <content type="html"><![CDATA[<h2>引言</h2>
 <p>2025 年 8 月 7 日，OpenAI 正式发布 GPT-5，并将其免费开放给所有 ChatGPT 用户。此后的半年多时间里，GPT-5 经历了从 5.0 到 5.4 的快速迭代，</p>
 <br/><p>访问 <a href="https://valaxy.site/posts/10.GPT-5" target="_blank">https://valaxy.site/posts/10.GPT-5</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>夜初尧</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2026-04-05T10:20:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迈向第三代人工智能]]></title>
+        <id>https://valaxy.site/posts/7.AI_5</id>
+        <link href="https://valaxy.site/posts/7.AI_5"/>
+        <updated>2025-12-27T17:27:00.000Z</updated>
+        <content type="html"><![CDATA[<h1>第一代人工智能</h1>
+<h2>1.1 物理符号系统假设</h2>
+<p>人类的智能行为究竟是如何产生的？为了回答这个问题，纽威尔（Newell）、西蒙（Simon）等人提出了一个模拟人类大脑的符号模型——**物理符</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/7.AI_5" target="_blank">https://valaxy.site/posts/7.AI_5</a> 阅读全文。</p>]]></content>
         <author>
             <name>夜初尧</name>
             <email>i@valaxy.site</email>
@@ -71,23 +87,6 @@
 <p>人工智能（AI）是一项变革性技术，它使机器能够和人类一样解决问题。从识别图像和生成创意内容到做出数据驱动的预测，人工智能使企业能够大规模做出更明智的决策。</p>
 <p>在当今的数</p>
 <br/><p>访问 <a href="https://valaxy.site/posts/3.AI_1" target="_blank">https://valaxy.site/posts/3.AI_1</a> 阅读全文。</p>]]></content>
-        <author>
-            <name>夜初尧</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2025-12-29T17:27:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迈向第三代人工智能]]></title>
-        <id>https://valaxy.site/posts/7.AI_5</id>
-        <link href="https://valaxy.site/posts/7.AI_5"/>
-        <updated>2025-12-27T17:27:00.000Z</updated>
-        <content type="html"><![CDATA[<h1>第一代人工智能</h1>
-<h2>1.1 物理符号系统假设</h2>
-<p>人类的智能行为是怎么产生的, 纽威尔、西蒙等提出以下模拟人类大脑的符号模型, 即物理符号系统假设. 这种系统包括:<br>
-(1) 一组任意的符号集,</p>
-<br/><p>访问 <a href="https://valaxy.site/posts/7.AI_5" target="_blank">https://valaxy.site/posts/7.AI_5</a> 阅读全文。</p>]]></content>
         <author>
             <name>夜初尧</name>
             <email>i@valaxy.site</email>

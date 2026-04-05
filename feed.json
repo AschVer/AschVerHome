@@ -16,7 +16,7 @@
             "url": "https://valaxy.site/posts/8.Bye2025",
             "title": "再见 2025 你好 2026",
             "date_modified": "2026-01-01T16:26:00.000Z",
-            "date_published": "2026-04-05T12:16:15.961Z",
+            "date_published": "2026-04-05T12:27:08.889Z",
             "author": {
                 "name": "夜初尧",
                 "url": "https://valaxy.site"
@@ -28,6 +28,18 @@
             "url": "https://valaxy.site/posts/10.GPT-5",
             "title": "GPT-5 全面解析：大模型正式迈入\"思考时代\"",
             "date_modified": "2026-04-05T10:20:00.000Z",
+            "date_published": "2026-04-05T10:20:00.000Z",
+            "author": {
+                "name": "夜初尧",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://valaxy.site/posts/7.AI_5",
+            "content_html": "<h1>第一代人工智能</h1>\n<h2>1.1 物理符号系统假设</h2>\n<p>人类的智能行为究竟是如何产生的？为了回答这个问题，纽威尔（Newell）、西蒙（Simon）等人提出了一个模拟人类大脑的符号模型——**物理符</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/7.AI_5\" target=\"_blank\">https://valaxy.site/posts/7.AI_5</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/7.AI_5",
+            "title": "迈向第三代人工智能",
+            "date_modified": "2025-12-27T17:27:00.000Z",
             "date_published": "2026-04-05T10:20:00.000Z",
             "author": {
                 "name": "夜初尧",
@@ -52,18 +64,6 @@
             "url": "https://valaxy.site/posts/3.AI_1",
             "title": "AI的基础知识",
             "date_modified": "2025-10-16T10:20:00.000Z",
-            "date_published": "2025-12-29T17:27:00.000Z",
-            "author": {
-                "name": "夜初尧",
-                "url": "https://valaxy.site"
-            }
-        },
-        {
-            "id": "https://valaxy.site/posts/7.AI_5",
-            "content_html": "<h1>第一代人工智能</h1>\n<h2>1.1 物理符号系统假设</h2>\n<p>人类的智能行为是怎么产生的, 纽威尔、西蒙等提出以下模拟人类大脑的符号模型, 即物理符号系统假设. 这种系统包括:<br>\n(1) 一组任意的符号集,</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/7.AI_5\" target=\"_blank\">https://valaxy.site/posts/7.AI_5</a> 阅读全文。</p>",
-            "url": "https://valaxy.site/posts/7.AI_5",
-            "title": "迈向第三代人工智能",
-            "date_modified": "2025-12-27T17:27:00.000Z",
             "date_published": "2025-12-29T17:27:00.000Z",
             "author": {
                 "name": "夜初尧",
