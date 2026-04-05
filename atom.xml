@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://valaxy.site/</id>
     <title>夜尧阁 AI分享站</title>
-    <updated>2026-04-05T12:27:30.765Z</updated>
+    <updated>2026-04-05T12:28:25.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>夜初尧</name>
@@ -29,7 +29,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2026-04-05T12:27:08.889Z</published>
+        <published>2026-04-05T12:27:53.504Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-5 全面解析：大模型正式迈入"思考时代"]]></title>
