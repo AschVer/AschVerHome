@@ -4,7 +4,7 @@
         <title>夜尧阁 AI分享站</title>
         <link>https://valaxy.site/</link>
         <description>无欲无求 笑口常开</description>
-        <lastBuildDate>Sun, 05 Apr 2026 12:42:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 08:56:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -15,10 +15,20 @@
         <copyright>CC BY-NC-SA 4.0 2026 © 夜初尧</copyright>
         <atom:link href="https://valaxy.site/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Claude Code 51万行源码泄露：一次 npm 打包失误引发的 AI 地震]]></title>
+            <link>https://valaxy.site/posts/11.Claude_Code_Leak</link>
+            <guid isPermaLink="false">https://valaxy.site/posts/11.Claude_Code_Leak</guid>
+            <pubDate>Mon, 06 Apr 2026 10:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>引言</h2>
+<p>2026 年 3 月 31 日，AI 行业发生了一件堪称&quot;黑色幽默&quot;的事件——以&quot;AI 安全&quot;为核心标签的 Anthropic，因为一个低级的打包失误，将自己最核心的产品 Claude</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/11.Claude_Code_Leak" target="_blank">https://valaxy.site/posts/11.Claude_Code_Leak</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (夜初尧)</author>
+        </item>
+        <item>
             <title><![CDATA[再见 2025 你好 2026]]></title>
             <link>https://valaxy.site/posts/8.Bye2025</link>
             <guid isPermaLink="false">https://valaxy.site/posts/8.Bye2025</guid>
-            <pubDate>Sun, 05 Apr 2026 12:42:12 GMT</pubDate>
+            <pubDate>Mon, 06 Apr 2026 08:56:19 GMT</pubDate>
             <content:encoded><![CDATA[<h1>你好，2026 | 在宏大的时代里，过好具体的每一天</h1>
 <p>当手机屏幕的时间跳动到 <strong>2026.01.01</strong>，的时候你在想什么？</p>
 <p>也许你正和朋友在喧闹的人群中倒数，也许你早已在温暖的被窝里</p>

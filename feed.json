@@ -11,12 +11,24 @@
     },
     "items": [
         {
+            "id": "https://valaxy.site/posts/11.Claude_Code_Leak",
+            "content_html": "<h2>引言</h2>\n<p>2026 年 3 月 31 日，AI 行业发生了一件堪称&quot;黑色幽默&quot;的事件——以&quot;AI 安全&quot;为核心标签的 Anthropic，因为一个低级的打包失误，将自己最核心的产品 Claude</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/11.Claude_Code_Leak\" target=\"_blank\">https://valaxy.site/posts/11.Claude_Code_Leak</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/11.Claude_Code_Leak",
+            "title": "Claude Code 51万行源码泄露：一次 npm 打包失误引发的 AI 地震",
+            "date_modified": "2026-04-06T10:20:00.000Z",
+            "date_published": "2026-04-06T10:20:00.000Z",
+            "author": {
+                "name": "夜初尧",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
             "id": "https://valaxy.site/posts/8.Bye2025",
             "content_html": "<h1>你好，2026 | 在宏大的时代里，过好具体的每一天</h1>\n<p>当手机屏幕的时间跳动到 <strong>2026.01.01</strong>，的时候你在想什么？</p>\n<p>也许你正和朋友在喧闹的人群中倒数，也许你早已在温暖的被窝里</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/8.Bye2025\" target=\"_blank\">https://valaxy.site/posts/8.Bye2025</a> 阅读全文。</p>",
             "url": "https://valaxy.site/posts/8.Bye2025",
             "title": "再见 2025 你好 2026",
             "date_modified": "2026-01-01T16:26:00.000Z",
-            "date_published": "2026-04-05T12:42:12.055Z",
+            "date_published": "2026-04-06T08:56:19.687Z",
             "author": {
                 "name": "夜初尧",
                 "url": "https://valaxy.site"
