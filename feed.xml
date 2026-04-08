@@ -4,7 +4,7 @@
         <title>夜尧阁 AI分享站</title>
         <link>https://valaxy.site/</link>
         <description>无欲无求 笑口常开</description>
-        <lastBuildDate>Mon, 06 Apr 2026 09:07:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 05:42:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -15,6 +15,85 @@
         <copyright>CC BY-NC-SA 4.0 2026 © 夜初尧</copyright>
         <atom:link href="https://valaxy.site/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[The Opening Chapter of My Writings]]></title>
+            <link>https://valaxy.site/posts/1.第一篇文章</link>
+            <guid isPermaLink="false">https://valaxy.site/posts/1.第一篇文章</guid>
+            <pubDate>Wed, 08 Apr 2026 10:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>我的第一篇博客文章</h2>
+<p>大家好，欢迎来到我的博客。</p>
+<p>手指落在键盘上的那一刻，屏幕上跳动出第一行字——这种感觉，像是推开了一扇很久没有打开的窗，外面的风一下子涌了进来。我不知道这扇窗后面通向哪里</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/1.第一篇文章" target="_blank">https://valaxy.site/posts/1.第一篇文章</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (夜初尧)</author>
+        </item>
+        <item>
+            <title><![CDATA[拒绝自证的艺术：从被动到主动的思维转变]]></title>
+            <link>https://valaxy.site/posts/2.心理学_1</link>
+            <guid isPermaLink="false">https://valaxy.site/posts/2.心理学_1</guid>
+            <pubDate>Wed, 08 Apr 2026 10:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>引言：你为什么总在&quot;自证&quot;？</h2>
+<p>你是否经历过这样的场景——</p>
+<blockquote>
+<p>&quot;你最近是不是对我有意见？&quot;<br>
+&quot;你说你没偷懒，那你倒是证明给我看啊。&quot;<br>
+&quot;你这么穿，是不是故意吸引别人注意？&quot;</p>
+</blockquote>
+<p>面对</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/2.心理学_1" target="_blank">https://valaxy.site/posts/2.心理学_1</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (夜初尧)</author>
+        </item>
+        <item>
+            <title><![CDATA[AI的基础知识]]></title>
+            <link>https://valaxy.site/posts/3.AI_1</link>
+            <guid isPermaLink="false">https://valaxy.site/posts/3.AI_1</guid>
+            <pubDate>Wed, 08 Apr 2026 10:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>什么是人工智能</h2>
+<p>人工智能（Artificial Intelligence，简称 AI）是指使机器能够模拟人类智能行为的技术总称。具体而言，AI 系统能够感知环境、理解语言、学习经验、进行推理</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/3.AI_1" target="_blank">https://valaxy.site/posts/3.AI_1</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (夜初尧)</author>
+        </item>
+        <item>
+            <title><![CDATA[AI幻觉的多维解析：成因、现象及影响的全面阐释]]></title>
+            <link>https://valaxy.site/posts/4.AI_2</link>
+            <guid isPermaLink="false">https://valaxy.site/posts/4.AI_2</guid>
+            <pubDate>Wed, 08 Apr 2026 10:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>一、AI幻觉的内涵界定</h2>
+<h3>1.1 概念定义</h3>
+<p>AI幻觉（AI Hallucination），是指人工智能系统在生成文本、图像或其他形式内容时，产生看似合理但实际上缺乏事实依据、与已知信</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/4.AI_2" target="_blank">https://valaxy.site/posts/4.AI_2</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (夜初尧)</author>
+        </item>
+        <item>
+            <title><![CDATA[人工智能素养：内涵剖析与评估标准构建]]></title>
+            <link>https://valaxy.site/posts/5.AI_3</link>
+            <guid isPermaLink="false">https://valaxy.site/posts/5.AI_3</guid>
+            <pubDate>Wed, 08 Apr 2026 10:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>引言</h2>
+<p>随着生成式人工智能（Generative AI）技术的迅猛发展，以 ChatGPT 为代表的大语言模型正在深刻重塑人类获取、处理和创造知识的方式。在这一背景下，**人工智能素养（AI</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/5.AI_3" target="_blank">https://valaxy.site/posts/5.AI_3</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (夜初尧)</author>
+        </item>
+        <item>
+            <title><![CDATA[AI分类监管：从治理框架到监管草案，中国正在做什么？]]></title>
+            <link>https://valaxy.site/posts/6.AI_4</link>
+            <guid isPermaLink="false">https://valaxy.site/posts/6.AI_4</guid>
+            <pubDate>Wed, 08 Apr 2026 10:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>一、引言：AI治理进入&quot;精细化&quot;时代</h2>
+<p>2025年，全球AI治理的节奏明显加快。欧盟《人工智能法案》（EU AI Act）正式进入分阶段实施，美国各州AI立法此起彼伏，而中国则在年底连续释放两</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/6.AI_4" target="_blank">https://valaxy.site/posts/6.AI_4</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (夜初尧)</author>
+        </item>
+        <item>
+            <title><![CDATA[再见 2025 你好 2026]]></title>
+            <link>https://valaxy.site/posts/8.Bye2025</link>
+            <guid isPermaLink="false">https://valaxy.site/posts/8.Bye2025</guid>
+            <pubDate>Wed, 08 Apr 2026 05:42:04 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>你好，2026 | 在宏大的时代里，过好具体的每一天</h1>
+<p>当手机屏幕的时间跳动到 <strong>2026.01.01</strong>，的时候你在想什么？</p>
+<p>也许你正和朋友在喧闹的人群中倒数，也许你早已在温暖的被窝里</p>
+<br/><p>访问 <a href="https://valaxy.site/posts/8.Bye2025" target="_blank">https://valaxy.site/posts/8.Bye2025</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (夜初尧)</author>
+        </item>
+        <item>
             <title><![CDATA[Claude Code 51万行源码泄露：一次 npm 打包失误引发的 AI 地震]]></title>
             <link>https://valaxy.site/posts/11.Claude_Code_Leak</link>
             <guid isPermaLink="false">https://valaxy.site/posts/11.Claude_Code_Leak</guid>
@@ -22,17 +101,6 @@
             <content:encoded><![CDATA[<h2>引言</h2>
 <p>2026 年 3 月 31 日，AI 行业发生了一件堪称&quot;黑色幽默&quot;的事件——以&quot;AI 安全&quot;为核心标签的 Anthropic，因为一个低级的打包失误，将自己最核心的产品 Claude</p>
 <br/><p>访问 <a href="https://valaxy.site/posts/11.Claude_Code_Leak" target="_blank">https://valaxy.site/posts/11.Claude_Code_Leak</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (夜初尧)</author>
-        </item>
-        <item>
-            <title><![CDATA[再见 2025 你好 2026]]></title>
-            <link>https://valaxy.site/posts/8.Bye2025</link>
-            <guid isPermaLink="false">https://valaxy.site/posts/8.Bye2025</guid>
-            <pubDate>Mon, 06 Apr 2026 09:06:42 GMT</pubDate>
-            <content:encoded><![CDATA[<h1>你好，2026 | 在宏大的时代里，过好具体的每一天</h1>
-<p>当手机屏幕的时间跳动到 <strong>2026.01.01</strong>，的时候你在想什么？</p>
-<p>也许你正和朋友在喧闹的人群中倒数，也许你早已在温暖的被窝里</p>
-<br/><p>访问 <a href="https://valaxy.site/posts/8.Bye2025" target="_blank">https://valaxy.site/posts/8.Bye2025</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (夜初尧)</author>
         </item>
         <item>
@@ -65,79 +133,6 @@
 <p>如果你用过 ChatGPT，你一定体验过这样的流程：你提出一个问题，它给你一段回答，然后——对话结束了。</p>
 <p>但如果你告诉一个 AI Agent：&quot;帮我调研 202</p>
 <br/><p>访问 <a href="https://valaxy.site/posts/9.AI_Agent" target="_blank">https://valaxy.site/posts/9.AI_Agent</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (夜初尧)</author>
-        </item>
-        <item>
-            <title><![CDATA[AI的基础知识]]></title>
-            <link>https://valaxy.site/posts/3.AI_1</link>
-            <guid isPermaLink="false">https://valaxy.site/posts/3.AI_1</guid>
-            <pubDate>Mon, 29 Dec 2025 17:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[<h2>什么是人工智能（AI）？</h2>
-<p>人工智能（AI）是一项变革性技术，它使机器能够和人类一样解决问题。从识别图像和生成创意内容到做出数据驱动的预测，人工智能使企业能够大规模做出更明智的决策。</p>
-<p>在当今的数</p>
-<br/><p>访问 <a href="https://valaxy.site/posts/3.AI_1" target="_blank">https://valaxy.site/posts/3.AI_1</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (夜初尧)</author>
-        </item>
-        <item>
-            <title><![CDATA[人工智能素养：内涵剖析与评估标准构建]]></title>
-            <link>https://valaxy.site/posts/5.AI_3</link>
-            <guid isPermaLink="false">https://valaxy.site/posts/5.AI_3</guid>
-            <pubDate>Fri, 28 Nov 2025 17:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[<h1>人工智能素养：内涵剖析与评估标准构建</h1>
-<h2>摘要</h2>
-<p>人工智能广泛渗透到社会各个层面，对人们的素养和能力提出了更高的要求。在ChatGPT等生成式人工智能逐渐走向常态化应用的背景下，需要研究AI素</p>
-<br/><p>访问 <a href="https://valaxy.site/posts/5.AI_3" target="_blank">https://valaxy.site/posts/5.AI_3</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (夜初尧)</author>
-        </item>
-        <item>
-            <title><![CDATA[AI分类监管：从治理框架到监管草案，中国正在做什么？]]></title>
-            <link>https://valaxy.site/posts/6.AI_4</link>
-            <guid isPermaLink="false">https://valaxy.site/posts/6.AI_4</guid>
-            <pubDate>Thu, 20 Nov 2025 17:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[<h1>AI 分类监管：从治理框架到监管草案，中国正在做什么？</h1>
-<h2>引言：AI 进入精细化治理时代</h2>
-<p>随着人工智能技术在社会各行业的深度渗透，关于如何有效管理 AI 风险的讨论已经从“是否监管”转向“</p>
-<br/><p>访问 <a href="https://valaxy.site/posts/6.AI_4" target="_blank">https://valaxy.site/posts/6.AI_4</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (夜初尧)</author>
-        </item>
-        <item>
-            <title><![CDATA[AI幻觉的多维解析：成因、现象及影响的全面阐释]]></title>
-            <link>https://valaxy.site/posts/4.AI_2</link>
-            <guid isPermaLink="false">https://valaxy.site/posts/4.AI_2</guid>
-            <pubDate>Mon, 20 Oct 2025 17:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[<h1>AI幻觉的多维解析：成因、现象及影响的全面阐释</h1>
-<p>作者: 王 蕊：河北师范大学新闻传播学院，河北 石家庄<br>
-摘要: 本文围绕AI幻觉展开多维解析，先界定其内涵为AI系统生成的不准确、虚构内容，本质是算</p>
-<br/><p>访问 <a href="https://valaxy.site/posts/4.AI_2" target="_blank">https://valaxy.site/posts/4.AI_2</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (夜初尧)</author>
-        </item>
-        <item>
-            <title><![CDATA[拒绝自证的艺术：从被动到主动的思维转变]]></title>
-            <link>https://valaxy.site/posts/2.心理学_1</link>
-            <guid isPermaLink="false">https://valaxy.site/posts/2.心理学_1</guid>
-            <pubDate>Thu, 16 Oct 2025 10:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[<h2>自证的本质与陷阱</h2>
-<h3>自证的底层逻辑</h3>
-<ul>
-<li>是一种框架控制的游戏，一场不对等审判</li>
-<li>对方充当审查官，你被迫成为犯人</li>
-<li>一旦开始自证，就等于接受对方设定，掉进自证陷阱</li>
-</ul>
-<h3>自证的后</h3>
-<br/><p>访问 <a href="https://valaxy.site/posts/2.心理学_1" target="_blank">https://valaxy.site/posts/2.心理学_1</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (夜初尧)</author>
-        </item>
-        <item>
-            <title><![CDATA[The Opening Chapter of My Writings]]></title>
-            <link>https://valaxy.site/posts/1.第一篇文章</link>
-            <guid isPermaLink="false">https://valaxy.site/posts/1.第一篇文章</guid>
-            <pubDate>Wed, 15 Oct 2025 10:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[<h2>我的第一篇博客文章</h2>
-<p>大家好，欢迎来到我的博客！<br>
-拥有自己的第一段文字 手指敲动键盘的感觉 就像打开了一个新的世界</p>
-<p>写这个博客的初衷很简单：我想把自己的日常生活</p>
-<p>很不幸，时间的流逝永</p>
-<br/><p>访问 <a href="https://valaxy.site/posts/1.第一篇文章" target="_blank">https://valaxy.site/posts/1.第一篇文章</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (夜初尧)</author>
         </item>
     </channel>
