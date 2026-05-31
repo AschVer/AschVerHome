@@ -1,7 +1,37 @@
 // 自定义样式
 
-/* 封面图片 - 从左上角裁剪对齐 */
+/* 文章卡片容器 - 使用flex布局 */
+.post-card,
+.yun-post-card {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: stretch !important;
+}
+
+/* 封面图片 - 宽度占五分之二 */
 img.cover,
-.yun-card > img.object-cover {
-  object-position: left top !important;
+.yun-card > img.object-cover,
+.post-card-cover,
+.post-list .post-card .cover,
+.post-list .post-card img,
+.yun-post-card-cover,
+.yun-post-card .cover,
+.post-card .cover-image {
+  width: 40% !important;
+  min-width: 40% !important;
+  max-width: 40% !important;
+  height: 200px !important;
+  object-fit: cover !important;
+  object-position: center !important;
+  flex-shrink: 0 !important;
+}
+
+/* 文章内容区域 - 宽度占五分之三 */
+.post-card .content,
+.yun-post-card .content,
+.post-card .post-content,
+.yun-post-card .post-content {
+  width: 60% !important;
+  flex: 1 !important;
+  padding: 1rem !important;
 }

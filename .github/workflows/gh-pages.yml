@@ -9,9 +9,6 @@ on:
       - master
       - valaxy
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
 jobs:
   build:
     runs-on: ${{ matrix.os }}
@@ -23,31 +20,24 @@ jobs:
       fail-fast: false
 
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v2
 
       - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v5
+        uses: actions/setup-node@v2
         with:
           node-version: ${{ matrix.node-version }}
-
-      - name: 📦 Install pnpm
-        uses: pnpm/action-setup@v4
-        with:
-          version: latest
+          registry-url: https://registry.npmjs.org/
 
       - name: 📦 Install Dependencies
-        run: pnpm install --frozen-lockfile
+        run: npm i
 
       - name: 🌌 Build Valaxy Blog
-        run: pnpm build
-        env:
-          NODE_OPTIONS: --max-old-space-size=4096
+        run: npm run build
 
       - name: 🪤 Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-          force_orphan: false
-          keep_files: false
+          force_orphan: true
           cname: hichuyao.top
