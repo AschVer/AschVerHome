@@ -1,7 +1,30 @@
 // 自定义样式
 
-/* 封面图片 - 从左上角裁剪对齐 */
+/* 封面图片 - 统一大小 */
 img.cover,
-.yun-card > img.object-cover {
-  object-position: left top !important;
+.yun-card > img.object-cover,
+.post-card-cover {
+  width: 100% !important;
+  height: 200px !important;
+  object-fit: cover !important;
+  object-position: center !important;
+}
+
+/* 文章列表中的封面图片 */
+.post-list .post-card .cover,
+.post-list .post-card img {
+  width: 100% !important;
+  height: 200px !important;
+  object-fit: cover !important;
+  object-position: center !important;
+}
+
+/* Yun主题文章卡片图片 */
+.yun-post-card-cover,
+.yun-post-card .cover,
+.post-card .cover-image {
+  width: 100% !important;
+  height: 200px !important;
+  object-fit: cover !important;
+  object-position: center !important;
 }
