@@ -1,6 +1,6 @@
 // 自定义样式
 
-/* 文章卡片容器 - 使用flex布局 */
+/* 文章列表卡片 - 图片占五分之二 */
 .post-card,
 .yun-post-card {
   display: flex !important;
@@ -8,15 +8,16 @@
   align-items: stretch !important;
 }
 
-/* 封面图片 - 宽度占五分之二 */
-img.cover,
-.yun-card > img.object-cover,
-.post-card-cover,
-.post-list .post-card .cover,
-.post-list .post-card img,
-.yun-post-card-cover,
+.post-card img.cover,
+.yun-post-card img.cover,
+.post-card .cover,
 .yun-post-card .cover,
-.post-card .cover-image {
+.post-card-cover,
+.yun-post-card-cover,
+.post-card .cover-image,
+.yun-post-card .cover-image,
+.post-list .post-card .cover,
+.post-list .post-card img {
   width: 40% !important;
   min-width: 40% !important;
   max-width: 40% !important;
@@ -26,7 +27,6 @@ img.cover,
   flex-shrink: 0 !important;
 }
 
-/* 文章内容区域 - 宽度占五分之三 */
 .post-card .content,
 .yun-post-card .content,
 .post-card .post-content,
@@ -34,4 +34,15 @@ img.cover,
   width: 60% !important;
   flex: 1 !important;
   padding: 1rem !important;
+}
+
+/* 文章内容页面的封面图片 - 填充整个容器 */
+.yun-main .yun-card img.object-cover {
+  width: 100% !important;
+  min-width: 100% !important;
+  max-width: 100% !important;
+  height: auto !important;
+  aspect-ratio: 16 / 9 !important;
+  object-fit: cover !important;
+  object-position: center !important;
 }
